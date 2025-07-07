@@ -9,7 +9,7 @@ class AppCute(QMainWindow):
         super(AppCute,self).__init__()
 
         # Loading the file
-        loadUi("design.ui",self)
+        loadUi("interface.ui",self)
 
         # Adding the variables
         
