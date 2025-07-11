@@ -35,15 +35,14 @@ cognito.py
 ## Screenshots
 
 ###  Home Page
-<p style="border:1px solid black;" align="center">
+<p align="center">
   <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/welcomePage.png" width="600"/>
 </p>
 
 
 ###  Instructions Page
-<<<<<<< HEAD
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600" style="border:1px solid black;" />
 
 ### Character Column Selection
 <p align="center">
