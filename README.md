@@ -34,23 +34,44 @@ cognito.py
  ```
 ## Screenshots
 
-###  Character Column Selection
+###  Home Page
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/main/screenshots/columsPage.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/welcomePage.png" width="600"/>
+</p>
+
+---
+###  Instructions Page
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600"/>
+</p>
+
+---
+
+### Character Column Selection
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/columsPage.png" width="600"/>
 </p>
 
 ---
 
 ### Character Row Selection
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/main/screenshots/rowsPage.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rowsPage.png" width="600"/>
 </p>
 
 ---
 
 ### Final Result Page
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/main/screenshots/resultPage.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/resultPage.png" width="600"/>
 </p>
 
 ---
+### Contact the Author
+
+If you have any ideas to improve this software or want to collaborate on similar projects, feel free to reach out.  
+I'm open to feedback, suggestions, or any feature requests you might have.
+
+**Firasat Jhujh**  
+Email: [www.realfirasat@gmail.com](mailto:www.realfirasat@gmail.com)  
+GitHub: [@FirasatJhujh](https://github.com/FirasatJhujh)
