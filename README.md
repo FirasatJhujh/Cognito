@@ -36,13 +36,18 @@ cognito.py
 
 ###  Home Page
 <p style="border:1px solid black;" align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/welcomePage.png" width="600"/>
+  <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/welcomePage.png" width="600"/>
 </p>
 
 
 ###  Instructions Page
+<<<<<<< HEAD
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600"/>
+=======
 <p  align="center">
   <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600"/>
+>>>>>>> 7a742d105438b605b1141aa2d44e59d7a38c53df
 </p>
 
 ### Character Column Selection
@@ -52,7 +57,11 @@ cognito.py
 
 ### Character Row Selection
 <p align="center">
+<<<<<<< HEAD
+  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rowsPage.png" width="600" style="border: 1px solid black;"/>
+=======
   <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rowsPage.png" width="600"/>
+>>>>>>> 7a742d105438b605b1141aa2d44e59d7a38c53df
 </p>
 
 ### Final Result Page
