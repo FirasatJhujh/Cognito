@@ -41,18 +41,18 @@ cognito.py
 
 
 ###  Instructions Page
-<p style="border:1px solid black;" align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600"/>
+<p  align="center">
+  <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rulesPage.png" width="600"/>
 </p>
 
 ### Character Column Selection
-<p style="border:1px solid black;" align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/columsPage.png" width="600"/>
+<p align="center">
+  <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/columsPage.png" width="600"/>
 </p>
 
 ### Character Row Selection
-<p style="border:1px solid black;" align="center">
-  <img src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rowsPage.png" width="600"/>
+<p align="center">
+  <img style="border:1px solid black;" src="https://raw.githubusercontent.com/FirasatJhujh/Cognito/refs/heads/main/Cognito%20ScreenShots/rowsPage.png" width="600"/>
 </p>
 
 ### Final Result Page
